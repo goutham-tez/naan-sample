@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:13:2-48:16
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\59e7095c908fada0827bd3311ba97690\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\59e7095c908fada0827bd3311ba97690\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\bc5111aa7ccd3bfb515e2dd4bc392c5a\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\bc5111aa7ccd3bfb515e2dd4bc392c5a\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\59e7095c908fada0827bd3311ba97690\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from [:shared_preferences_android] C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\55759d69a24c6e23a4244a7afedefde1\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\cd6889b9a129f90501223307c2f8df04\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\6fdd8af00c5f76a0f9a9c2886d374b64\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\9a83948084ca3a5ef936a02903104160\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\9395e03832969f7e70a620aa17aa8d52\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\98817385661eececdcd3198d32a61b78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\59e7095c908fada0827bd3311ba97690\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\9ac3a440bbff55c7ed2bc0d4e9547010\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\1fdecf80132a3ee32920514ea672665d\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\6c3ab7f2cb5f47dcacf825a3a459debd\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\588fd203c1f01e50af7bf991f18d7a88\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\3ebce66bc1700983beba47a17dfdd550\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\c1a08fb174b613a7456f2a50b913a7f0\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\bc5111aa7ccd3bfb515e2dd4bc392c5a\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\6bacaf85fec58bb3c7fd54bfdbf8696e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\869382cf45d783e00c32543e1ce98d5b\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:70-88
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:89-135
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:89-135
+	android:versionCode
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:9:2-64
+MERGED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:9:2-64
+MERGED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:9:2-64
+	android:name
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:9:19-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:10:2-78
+	android:name
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:10:19-75
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:11:2-77
+	android:name
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:11:19-74
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:12:2-71
+	android:name
+		ADDED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml:12:19-68
+uses-sdk
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\build\shared_preferences_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\55759d69a24c6e23a4244a7afedefde1\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\55759d69a24c6e23a4244a7afedefde1\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\cd6889b9a129f90501223307c2f8df04\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\cd6889b9a129f90501223307c2f8df04\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\6fdd8af00c5f76a0f9a9c2886d374b64\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\6fdd8af00c5f76a0f9a9c2886d374b64\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\9a83948084ca3a5ef936a02903104160\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\9a83948084ca3a5ef936a02903104160\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\9395e03832969f7e70a620aa17aa8d52\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\9395e03832969f7e70a620aa17aa8d52\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\98817385661eececdcd3198d32a61b78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\98817385661eececdcd3198d32a61b78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\59e7095c908fada0827bd3311ba97690\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\59e7095c908fada0827bd3311ba97690\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\9ac3a440bbff55c7ed2bc0d4e9547010\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\9ac3a440bbff55c7ed2bc0d4e9547010\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\1fdecf80132a3ee32920514ea672665d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\1fdecf80132a3ee32920514ea672665d\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\6c3ab7f2cb5f47dcacf825a3a459debd\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\6c3ab7f2cb5f47dcacf825a3a459debd\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\588fd203c1f01e50af7bf991f18d7a88\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\588fd203c1f01e50af7bf991f18d7a88\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\3ebce66bc1700983beba47a17dfdd550\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\3ebce66bc1700983beba47a17dfdd550\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\c1a08fb174b613a7456f2a50b913a7f0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\c1a08fb174b613a7456f2a50b913a7f0\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\bc5111aa7ccd3bfb515e2dd4bc392c5a\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\bc5111aa7ccd3bfb515e2dd4bc392c5a\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\6bacaf85fec58bb3c7fd54bfdbf8696e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\6bacaf85fec58bb3c7fd54bfdbf8696e\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\869382cf45d783e00c32543e1ce98d5b\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\869382cf45d783e00c32543e1ce98d5b\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\srika\OneDrive\Documents\tezsure\Naan-wallet\android\app\src\debug\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\srika\.gradle\caches\transforms-2\files-2.1\40e873b7d326daf786a0867f946c3cec\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
